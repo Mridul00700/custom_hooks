@@ -1,13 +1,11 @@
-import { useState } from 'react'
 
+import ApiCall from './Components/ApiCall';
 function App() {
 
 
   return (
-    <div>
-      ApiCall
-    </div>
+    <ApiCall />
   )
-}6
+}
 
 export default App

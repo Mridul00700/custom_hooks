@@ -18,5 +18,9 @@
     "@vitejs/plugin-react": "^2.2.0",
     "typescript": "^4.6.4",
     "vite": "^3.2.3"
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/Mridul00700/custom_hooks.git",
+  "author": "Mridul00700 <55996869+Mridul00700@users.noreply.github.com>",
+  "license": "MIT"
 }
